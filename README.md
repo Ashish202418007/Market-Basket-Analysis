@@ -67,7 +67,7 @@ This notebook performs a complete **data-driven customer segmentation pipeline**
 
 1. **Clone this repository**
  ```bash
-  git clone https://github.com/Ashish202418007/Market-Busket-Analysis.git
+  git clone https://github.com/Ashish202418007/Market-Basket-Analysis.git
  cd Market-Busket-Analysis
  ```
 
